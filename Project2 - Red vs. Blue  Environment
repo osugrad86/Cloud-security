@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T00:23:33.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="b2UovE9GeRBVo6oLK7Fk" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T01:37:28.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="R2yLIZYwe1z8a2UKZ6qx" version="18.0.2" type="github">
   <diagram id="1ldiSCzU5GRONGcbroYt" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,15 +55,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ylv9fwegsoQcaG4n-TsR-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="370" as="sourcePoint" />
-            <mxPoint x="110" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="60" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ylv9fwegsoQcaG4n-TsR-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Ylv9fwegsoQcaG4n-TsR-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="435" as="sourcePoint" />
@@ -78,6 +69,12 @@
         </mxCell>
         <mxCell id="Ylv9fwegsoQcaG4n-TsR-28" value="nmap&lt;br&gt;searchsploit&lt;br&gt;metaslpoit&lt;br&gt;msvenom - payload" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="720" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ylv9fwegsoQcaG4n-TsR-29" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ylv9fwegsoQcaG4n-TsR-30" value="syslogs&lt;br&gt;web packets&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="355" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
